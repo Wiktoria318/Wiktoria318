@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wiktoria318
+- 👋 Hi, I’m Wiktoria
 - 👀 I’m interested in programming and biomedical engineering.
-- 🌱 I’m currently learning C#, Python, Oracle SQL
+- 🌱 I’m currently learning C#, Matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
